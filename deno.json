@@ -1,0 +1,9 @@
+{
+  "lint": {
+    "plugins": ["./plugin.ts"]
+  },
+  "name": "@retraigo/class-inheritance-plugin",
+  "version": "0.0.1",
+  "license": "MIT",
+  "exports": "./plugin.ts"
+}
